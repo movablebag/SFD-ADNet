@@ -1,0 +1,9 @@
+# 打开 .gitignore 文件（如果没有就创建），添加以下内容：
+# 方式1：忽略具体大文件（精准）
+examples/adversial_defense/defense/processed_train_data/low_frequency_data.npy
+examples/adversial_defense/attacks/dataset/Data/data_npz/*.npz  # 用 * 匹配所有 .npz 文件
+
+# 方式2：忽略所有 .npy 和 .npz 数据文件（更通用，避免后续加新数据文件）
+*.npy
+*.npz
+
