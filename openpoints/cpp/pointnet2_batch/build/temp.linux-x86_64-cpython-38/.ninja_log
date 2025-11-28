@@ -1,0 +1,10 @@
+# ninja log v5
+1	16084	1741845614654809823	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/interpolate.o	22506a331cda1006
+0	16808	1741845615377789940	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/group_points.o	511c32681053fd35
+0	16960	1741845615530785735	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/ball_query.o	2cef034e5523d8a8
+1	17254	1741845615817777846	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/sampling.o	3ef45cef826e2c61
+1	24821	1741845623385571004	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	661632e31e1815d8
+0	25028	1741845623594565321	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	e00a1ca723807348
+1	25090	1741845623655563663	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	e514097a43fe3a51
+0	25123	1741845623689562739	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	391e5619a9b2d3d7
+1	27396	1741845625956501212	/media/shangli211/4TB_SSD/program_file/ldf_cutmix/AdaptPoint/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	b4be7e4784d9ab4e
